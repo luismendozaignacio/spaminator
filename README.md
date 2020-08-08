@@ -15,8 +15,8 @@ The REAL THING
 This is a work in progress software so as of right now there are two ways you can open iMessages <br />
 #1 have iMessages convesation of the intended recipient open before running Spaminator <br /> 
 #2 if your intended recipient is the most recent conversation in iMessage, Spaminator may open iMessage automatically. <br />
-Then go to main.py and comment lines 15 & 34  <br />
-Uncomment lines 16 & 35 <br />
+Then go to main.py and comment lines 15 & 35  <br />
+Uncomment lines 16 & 36 <br />
 As a safety spam mechanism, by default the max number of spam you can do is 10. If you want to change it then comment line 32 on main.py
 
 <br />

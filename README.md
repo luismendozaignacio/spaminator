@@ -9,6 +9,7 @@ Install PyAutoGui: on terminal type: python3 -m pip install pyautogui <br />
 Give permission to Terminal: System Preferences -> Security & Privacy -> Accessibility -> Terminal <br />
 <br />
 WARNING: As a safety spam mechanism, by default the max number of spam you can do is 10. If you want to change it then comment line 32 on main.py <br />
+<br />
 TEST SPAMINATOR FIRST <br />
 By default when you run Spaminator it will open a testTxt.txt file so you can test the software first before opening iMessages. <br />
 Mess around with it to get a feel and see what you can do. Once you run the program make sure not to move your mouse or click somewhere else as it will start typing on any app that is currently opened. Let Spaminator do it's thing and it will let you know what it is doing on the terminal. <br /> 

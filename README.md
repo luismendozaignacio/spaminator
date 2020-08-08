@@ -5,6 +5,7 @@ To run the code Download the following: <br />
 Latest version of Python: https://www.python.org/downloads/ <br />
 Pip3:  on terminal type: python3 get-pip.py <br />
 Install PyAutoGui: on terminal type: python3 -m pip install pyautogui <br />
+Give permision to Terminal: System Preferences -> Security & Privacy -> Accessibility -> Terminal 
 <br />
 TEST SPAMINATOR FIRST <br />
 By default when you run Spaminator it will open a testTxt.txt file so you can test the software first before opening iMessages. <br />

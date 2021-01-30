@@ -17,7 +17,7 @@ Mess around with it to get a feel and see what you can do. Once you run the prog
 
 The REAL THING <br />
 This is a work in progress software so as of right now there are two ways you can open iMessages <br />
-#1 have iMessages convesation of the intended recipient open before running Spaminator <br /> 
+#1 have iMessages conversation of the intended recipient open before running Spaminator <br /> 
 #2 if your intended recipient is the most recent conversation in iMessage, Spaminator may open iMessage automatically. <br />
 Then go to main.py and comment lines 15 & 35  <br />
 Uncomment lines 16 & 36 <br />
